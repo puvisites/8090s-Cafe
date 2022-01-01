@@ -9,9 +9,9 @@ export default (() => {
 		<GlobalQuarklyPageStyles pageUrl={"index"} />
 		<Helmet>
 			<title>
-				Quarkly export
+				8090scafe
 			</title>
-			<meta name={"description"} content={"Web site created using quarkly.io"} />
+			<meta name={"description"} content={"Web site created by wetar.org"} />
 			<link rel={"shortcut icon"} href={"https://uploads.quarkly.io/readme/cra/favicon-32x32.ico"} type={"image/x-icon"} />
 		</Helmet>
 		<Text margin="0px 0px 0px 0px" text-align="center" font="--headline1">
@@ -428,10 +428,10 @@ export default (() => {
 			transition={"--opacityOut"}
 			quarkly-title={"Badge"}
 			text-decoration-line={"initial"}
-			href={"https://quarkly.io/"}
+			href={"https://wetar.org"}
 			target={"_blank"}
 		>
-			Made on Quarkly
+			Made by Wetar
 		</Link>
 		<RawHtml>
 			<style place={"endOfHead"} rawKey={"61cdc2e89ff3b4001e2bef71"}>
